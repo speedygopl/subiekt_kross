@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="subiekt:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d2b2b67-18ed-4ea8-aeb2-c8b94a027eba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YzhwupI9hEAmywGKlQM663W8ys" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../subiekt_kellys/src/main/jacob.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\IdeaProjects\subiekt_kross\src\META-INF" />
+      <recent name="C:\Users\Dell\IdeaProjects\subiekt\src\main" />
+      <recent name="C:\Users\Dell\IdeaProjects\subiekt\src\main\java" />
+      <recent name="C:\Users\Dell\IdeaProjects\subiekt" />
+      <recent name="C:\Users\Dell\IdeaProjects\subiekt\src\main\java\META-INF" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\IdeaProjects\subiekt_kross\src\META-INF" />
+      <recent name="C:\Users\Dell\IdeaProjects\subiekt\src\main\resources" />
+      <recent name="C:\Users\Dell\IdeaProjects\subiekt" />
+      <recent name="C:\Users\Dell\IdeaProjects\subiekt\com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KrossImport">
+    <configuration name="JacobExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JacobExample" />
+      <module name="kross" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KrossImport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="KrossImport" />
+      <module name="subiekt_kross" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebBrowser" />
+      <module name="kross" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="subiekt_kross" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JacobExample" />
+      <item itemvalue="Application.KrossImport" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.WebBrowser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KrossImport" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.WebBrowser" />
+        <item itemvalue="Application.JacobExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d2b2b67-18ed-4ea8-aeb2-c8b94a027eba" name="Default Changelist" comment="" />
+      <created>1583951571080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583951571080</updated>
+      <workItem from="1583951572557" duration="1160000" />
+      <workItem from="1584033777279" duration="6084000" />
+      <workItem from="1584180302738" duration="2056000" />
+      <workItem from="1584183397419" duration="11111000" />
+      <workItem from="1584249823871" duration="18909000" />
+      <workItem from="1584370073431" duration="6045000" />
+      <workItem from="1584552589770" duration="5507000" />
+      <workItem from="1584689262622" duration="14012000" />
+      <workItem from="1584721437746" duration="4453000" />
+      <workItem from="1584774022001" duration="20332000" />
+      <workItem from="1584866373030" duration="2976000" />
+      <workItem from="1584873144211" duration="3075000" />
+      <workItem from="1584880746730" duration="248000" />
+      <workItem from="1584881423105" duration="9244000" />
+      <workItem from="1585121303639" duration="725000" />
+      <workItem from="1585136157542" duration="66000" />
+      <workItem from="1585140181756" duration="1469000" />
+      <workItem from="1585159921344" duration="353000" />
+      <workItem from="1585213808930" duration="33000" />
+      <workItem from="1585220414961" duration="77000" />
+      <workItem from="1585220519529" duration="2265000" />
+      <workItem from="1585838269620" duration="1135000" />
+      <workItem from="1586408607844" duration="122000" />
+      <workItem from="1586434462974" duration="54000" />
+      <workItem from="1589641369629" duration="1083000" />
+      <workItem from="1589700463712" duration="78000" />
+      <workItem from="1590058205657" duration="3206000" />
+      <workItem from="1590301978328" duration="19000" />
+      <workItem from="1593103326067" duration="2251000" />
+      <workItem from="1593106653121" duration="62000" />
+      <workItem from="1593106803044" duration="1161000" />
+      <workItem from="1593108013992" duration="46000" />
+      <workItem from="1593151680198" duration="183000" />
+      <workItem from="1593152038382" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="0" width="619" height="728" key="#KrossImport" timestamp="1593106196351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="0" width="619" height="728" key="#KrossImport/0.0.1366.728@0.0.1366.728" timestamp="1593106196351" />
+    <state x="275" y="22" key="#Project_Structure" timestamp="1584883844957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1584883844957" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593151783857">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1593151783857" />
+    <state x="421" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593107257412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="421" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1593107257412" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1584557424536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584557424536" />
+    <state x="434" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1593106897129">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1593106897129" />
+    <state x="413" y="118" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1584890430466">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584890430466" />
+    <state x="458" y="79" key="DetectedRootsChooserDialog" timestamp="1584892575514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="458" y="79" key="DetectedRootsChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1584892575514" />
+    <state x="389" y="105" key="FileChooserDialogImpl" timestamp="1593107925885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593107925885" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1593151864376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593151864376" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1593151864376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593151864376" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1593151864376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593151864376" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1593151864376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593151864376" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1585319524441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585319524441" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1585319524441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585319524441" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1585319524441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585319524441" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1585319524441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585319524441" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1584889589938">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1584889589938" />
+    <state x="369" y="68" key="NewModule_or_Project.wizard" timestamp="1593105935728">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="369" y="68" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1593105935728" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1593152077760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593152077760" />
+    <state x="65" y="50" key="new project wizard" timestamp="1593105922645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="50" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1593105922645" />
+  </component>
+</project>
